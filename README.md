@@ -1,2 +1,3 @@
-# hitchin-post-delivery
-React Native Mobile app for goods delivery.
+#Hitchin Post Delivery
+
+React Native Expo mobile app for goods delivery service
